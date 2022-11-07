@@ -3,7 +3,7 @@
 <!--
 **Liya-Getachew/Liya-Getachew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h1>✿ ABOUT ME ( ͡❛ ‿‿ ͡❛) ✿</h1>
+<h1 align="center">✿ ABOUT ME ( ͡❛ ‿‿ ͡❛) ✿</h1>
 <img src="https://media.tenor.com/1wwB5yNC6dgAAAAS/genshin-impact.gif" align="right">
 ♡ Name: liyaaa (pronounced lee-ya)<br>
 ♡ Pronouns: she / her ♀<br>
