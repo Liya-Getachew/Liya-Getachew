@@ -12,7 +12,6 @@
 ♡ How to reach me: um.. I'll get back to this<br>
 ♡ Hobbies: drawing, writing, origami, chess, piano, reading, ping pong...the list goes on
 <br><br>
-<img src="https://i.kym-cdn.com/photos/images/original/002/366/910/e59.gif" align="center">
 <br><br>
 
 <hr><p align="center">✿</p><hr>
