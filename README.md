@@ -5,19 +5,20 @@
 
 <h1 align="center">✿ ABOUT ME ( ͡❛ ‿‿ ͡❛) ✿</h1>
 <img src="https://media.tenor.com/1wwB5yNC6dgAAAAS/genshin-impact.gif" align="right">
-♡ Name: liyaaa (pronounced lee-ya)<br>
-♡ Pronouns: she / her ♀<br>
-♡ Nationality: canadian eh 🍁<br>
-♡ job: ...school?<br>
-♡ How to reach me: um.. I'll get back to this<br>
+♡ Name: liyaaa (pronounced lee-ya)<br><br>
+♡ Pronouns: she / her ♀<br><br>
+♡ Nationality: canadian eh 🍁<br><br>
+♡ job: ...school?<br><br>
+♡ Socials: <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><br><br>
 ♡ Hobbies: drawing, writing, origami, chess, piano, reading, ping pong...the list goes on
 <br><br>
 <br><br>
 
 <hr><p align="center">✿</p><hr>
-<h2>Program tools I use/know ᕙ(`▿´)ᕗ:</h2>
+<h2>Tools I use/know ᕙ(`▿´)ᕗ:</h2>
 <div align="center"> 
- ♡ Browsers: <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/><br>
+ ♡ Operating systems:<img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br>
  ♡ IDE's: <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/>
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/><br> 
  ♡ Languages: <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
