@@ -5,7 +5,7 @@
 
 <h1 align="center">✿ ABOUT ME ( ͡❛ ‿‿ ͡❛) ✿</h1>
 <img src="https://media.tenor.com/1wwB5yNC6dgAAAAS/genshin-impact.gif" align="right">
-♡ Name: liyaaa (pronounced lee-ya)<br><br>
+♡ Name: liya (pronounced lee-ya)<br><br>
 ♡ Pronouns: she / her ♀<br><br>
 ♡ Nationality: canadian eh 🍁<br><br>
 ♡ job: ...school?<br><br>
