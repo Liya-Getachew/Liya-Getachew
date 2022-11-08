@@ -9,7 +9,7 @@
 ♡ Pronouns: she / her ♀<br><br>
 ♡ Nationality: canadian eh 🍁<br><br>
 ♡ job: ...school?<br><br>
-♡ Socials: <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><br><br>
+♡ Socials: <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">cocolovd84@gmail.com<br><br>
 ♡ Hobbies: drawing, writing, origami, chess, piano, reading, ping pong...the list goes on
 <br><br>
 <br><br>
