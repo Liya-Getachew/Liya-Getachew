@@ -5,11 +5,11 @@
 
 <h1 align="center">✿ ABOUT ME ( ͡❛ ‿‿ ͡❛) ✿</h1>
 <img src="https://media.tenor.com/1wwB5yNC6dgAAAAS/genshin-impact.gif" align="right">
-♡ Name: liya (pronounced lee-ya)<br><br>
+♡ Name: liya (lee-ya)<br><br>
 ♡ Pronouns: she / her ♀<br><br>
-♡ Nationality: canadian eh 🍁<br><br>
+♡ Nationality: canadian🍁<br><br>
 ♡ job: ...school?<br><br>
-♡ Socials: <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">cocolovd84@gmail.com<br><br>
+♡ Socials: <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><br><br>
 ♡ Hobbies: drawing, writing, origami, chess, piano, reading, ping pong...the list goes on
 <br><br>
 <br><br>
