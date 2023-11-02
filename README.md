@@ -42,7 +42,9 @@
  <br><br>
 
  <p>To code, or not to code? (͠≖ ͜ʖ͠≖) </p><br>
- <img src="https://i.gifer.com/A50a.gif" width="300" length="300">
+  <img src="neoboxd-hello-kitty.gif">
 </div>
 <hr><p align="center">✿</p><hr>
+<img src="https://i.gifer.com/A50a.gif" width="300" length="300" align="center">
 You should look at my repo's ✍(◔◡◔)
+
