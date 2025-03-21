@@ -7,12 +7,12 @@
 <img src="download-removebg-preview.png" align="right">
 
 <!-- personal info -->
-♡ Name: liya (lee-ya)<br><br>
+♡ Name: liya<br><br>
 ♡ Pronouns: she/her ♀<br><br>
 ♡ Nationality: canadian🍁<br><br>
 ♡ job: school<br><br>
 ♡ Socials: <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><br><br>
-♡ Hobbies: drawing, writing, origami, chess, piano, reading, ping pong...the list goes on
+♡ Hobbies: drawing, writing, origami, chess, piano, reading, ping pong
 <br><br>
 <br><br>
 
@@ -23,7 +23,7 @@
  ♡ Operating systems:
  <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white"/>
  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br>
- <a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi"></a>
+ <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi"></a>
  
   <!-- IDE's -->
  ♡ IDE's: 
