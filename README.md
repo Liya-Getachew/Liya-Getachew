@@ -23,10 +23,10 @@
  <!-- operating systems -->
  ♡ Operating systems:
  <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white"/>
- <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi">
  <img src="https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=white" alt="Mac OS">
- 
+ <br>
   <!-- IDE's -->
  ♡ IDE's: 
  <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/>
